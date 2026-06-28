@@ -1,16 +1,26 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;Full-Stack+Robotics+Engineer;ROS2+%7C+DL+%7C+LLM+%7C+3D+Print;Building+Cool+Things+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;Full-Stack+Robotics+Engineer;ROS2+%7C+DL+%7C+LLM+%7C+3D+Print;Building+Cool+Things+%F0%9F%94%A5" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
+<p align="center">
+  <a href="#en">🇺🇸</a> ·
+  <a href="#cn">🇨🇳</a> ·
+  <a href="#jp">🇯🇵</a> ·
+  <a href="#kr">🇰🇷</a> ·
+  <a href="#de">🇩🇪</a> ·
+  <a href="#fr">🇫🇷</a> ·
+  <a href="#es">🇪🇸</a> ·
+  <a href="#ru">🇷🇺</a>
+</p>
 
 ---
 
-### 🧠 About Me · 关于我
-
-<details open><summary>🇺🇸 English</summary>
+<a name="en"></a>
+<details open><summary>🧠 About Me</summary>
 
 - 🤖 Full-Stack Robotics Engineer
 - 🔭 Working on: `ROS2` · `BSP` · `Robot Arm` · `AI Agent` · `DL` · `LLM` · `3D Print` · `Mechanical Design`
@@ -19,7 +29,8 @@
 
 </details>
 
-<details><summary>🇨🇳 中文</summary>
+<a name="cn"></a>
+<details><summary>🧠 关于我</summary>
 
 - 🤖 全栈机器人工程师
 - 🔭 ROS2 · BSP · 机械臂 · AI Agent · 深度学习 · 大模型 · 3D打印 · 机械结构
@@ -28,7 +39,8 @@
 
 </details>
 
-<details><summary>🇯🇵 日本語</summary>
+<a name="jp"></a>
+<details><summary>🧠 私について</summary>
 
 - 🤖 ロボティクスエンジニア
 - 🔭 ROS2 · BSP · ロボットアーム · AI · DL · LLM · 3Dプリント · 機械設計
@@ -37,7 +49,8 @@
 
 </details>
 
-<details><summary>🇰🇷 한국어</summary>
+<a name="kr"></a>
+<details><summary>🧠 소개</summary>
 
 - 🤖 로보틱스 엔지니어
 - 🔭 ROS2 · BSP · 로봇 암 · AI · DL · LLM · 3D 프린트 · 기계 설계
@@ -46,7 +59,8 @@
 
 </details>
 
-<details><summary>🇩🇪 Deutsch</summary>
+<a name="de"></a>
+<details><summary>🧠 Über mich</summary>
 
 - 🤖 Robotik-Ingenieur
 - 🔭 ROS2 · BSP · Roboterarm · AI · DL · LLM · 3D-Druck · Mechanik
@@ -55,7 +69,8 @@
 
 </details>
 
-<details><summary>🇫🇷 Français</summary>
+<a name="fr"></a>
+<details><summary>🧠 À propos</summary>
 
 - 🤖 Ingénieur Robotique
 - 🔭 ROS2 · BSP · Bras Robot · AI · DL · LLM · Impression 3D · Conception Mécanique
@@ -64,7 +79,8 @@
 
 </details>
 
-<details><summary>🇪🇸 Español</summary>
+<a name="es"></a>
+<details><summary>🧠 Sobre mí</summary>
 
 - 🤖 Ingeniero en Robótica
 - 🔭 ROS2 · BSP · Brazo Robot · AI · DL · LLM · Impresión 3D · Diseño Mecánico
@@ -73,7 +89,8 @@
 
 </details>
 
-<details><summary>🇷🇺 Русский</summary>
+<a name="ru"></a>
+<details><summary>🧠 Обо мне</summary>
 
 - 🤖 Инженер-робототехник
 - 🔭 ROS2 · BSP · Роборука · AI · DL · LLM · 3D-печать · Механика
