@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+%E5%BC%A0%E6%99%93%E6%A5%A0+(Leaf);Robotics+Engineer+%F0%9F%A4%96;ROS2+%7C+Embedded+%7C+AI+Agent;Building+Cool+Things+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;Robotics+%7C+Embedded+%7C+AI;Building+Cool+Things+%F0%9F%94%A5;ROS2+%7C+RT-Linux+%7C+BSP" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -10,13 +10,11 @@
 
 ### 🧠 About Me
 
-- 🎓 **集美大学** 理学院 · 光电信息科学与工程 2213班 · 班长 · 电子协会会长
-- 🤖 **机器人应用开发工程师** @ D-Robotics（地平线）
-- 🔭 Working on: `ROS2` · `RDK X5/S100/S600` · `PiPER机械臂` · `云端AI Agent`
-- 🌱 Diving into: EtherCAT, RT-Linux, BSP 定制, 具身智能
-- 🎵 Music: J-HipHop / RAP / J-Pop
-- 🍳 Cooking enthusiast | 日本語勉強中
-- 🏛️ 中共党员 · 第一性原理信徒
+- 🤖 Robotics & Embedded Systems Engineer
+- 🔭 Working on: `ROS2` · `BSP定制` · `机械臂` · `AI Agent`
+- 🌱 Diving into: EtherCAT, RT-Linux, 具身智能
+- 🎵 Music: J-HipHop / RAP / J-Pop | 🍳 Cooking | 🇯🇵 日本語勉強中
+- ⚡ Motto: "第一性原理思考，结果导向执行"
 
 ---
 
@@ -27,15 +25,15 @@
 ![ROS2](https://img.shields.io/badge/ROS2-Humble%20%7C%20Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%2022.04%2F24.04-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-🐳-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-3D%20建模-E3352B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![立创EDA](https://img.shields.io/badge/立创EDA-PCB%20设计-5588FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjNTU4OEZGIi8+PHRleHQgeD0iNCIgeT0iMTciIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+TENE PC90ZXh0Pjwvc3ZnPg==&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-CAD-D22128?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-3D-E3352B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![PCB](https://img.shields.io/badge/PCB%20Design-立创EDA-5588FF?style=for-the-badge)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-AArch64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 </div>
 
@@ -46,8 +44,7 @@
 | Project | Description |
 |---------|-------------|
 | **[Cloud-Soul](https://github.com/hachi-leaf/Cloud-Soul)** | ROS2 驱动的云端 AI Agent 运行时 · 多终端循环思考 · Git 托管灵魂记忆 |
-| **[Adam-Soul](https://github.com/hachi-leaf/Adam-Soul)** | Adam 的云端记忆仓库 · 设定、规则、经验、世界观 |
-| **[RDK BSP](https://github.com/hachi-leaf)** | RDK X5 / S100 / S600 BSP 定制 · 内核编译 · 设备树 · 驱动开发 |
+| **[Adam-Soul](https://github.com/hachi-leaf/Adam-Soul)** | Adam 的云端记忆仓库 · 设定 / 规则 / 经验 / 世界观 |
 
 ---
 
@@ -66,19 +63,15 @@
 
 ```python
 class Leaf:
-    def __init__(self):
-        self.motto = "第一性原理思考，结果导向执行"
-        self.stack  = ["ROS2", "C++", "Python", "RT-Linux"]
-        self.building = "具身智能机器人"
+    motto   = "第一性原理思考，结果导向执行"
+    stack   = ["ROS2", "C++", "Python", "RT-Linux"]
+    targets = "具身智能机器人"
     
     def daily(self):
-        return "☕ 咖啡 → 🤖 写代码 → 🍳 做饭 → 🎵 听RAP"
+        return "☕ → 🤖 → 🍳 → 🎵"
 
-me = Leaf()
-while me.is_alive():
-    me.build()
-    me.learn()
-    me.repeat()
+while alive:
+    build() and learn() and repeat()
 ```
 
 ---
