@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;Robotics+%7C+Embedded+%7C+AI;Building+Cool+Things+%F0%9F%94%A5;ROS2+%7C+RT-Linux+%7C+BSP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;Robotics+%7C+Embedded+%7C+AI+Agent;Building+Cool+Things+%F0%9F%94%A5;ROS2+%7C+RT-Linux+%7C+BSP" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -12,8 +12,7 @@
 
 - 🤖 Robotics & Embedded Systems Engineer
 - 🔭 Working on: `ROS2` · `BSP定制` · `机械臂` · `AI Agent`
-- 🌱 Diving into: EtherCAT, RT-Linux, 具身智能
-- 🎵 Music: J-HipHop / RAP / J-Pop | 🍳 Cooking | 🇯🇵 日本語勉強中
+- 🌱 Currently diving into: RT-Linux, EtherCAT, Real-Time Systems
 - ⚡ Motto: "第一性原理思考，结果导向执行"
 
 ---
@@ -63,10 +62,9 @@
 
 ```python
 class Leaf:
-    motto   = "第一性原理思考，结果导向执行"
-    stack   = ["ROS2", "C++", "Python", "RT-Linux"]
-    targets = "具身智能机器人"
-    
+    motto = "第一性原理思考，结果导向执行"
+    stack = ["ROS2", "C++", "Python", "RT-Linux"]
+
     def daily(self):
         return "☕ → 🤖 → 🍳 → 🎵"
 
