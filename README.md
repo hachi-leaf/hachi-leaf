@@ -4,23 +4,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-<br/>
-
-[🇺🇸 EN](#-about-me) · [🇨🇳 中文](#-关于我) · [🇯🇵 日本語](#-私について) · [🇰🇷 한국어](#-소개) · [🇩🇪 DE](#-über-mich) · [🇫🇷 FR](#-à-propos) · [🇪🇸 ES](#-sobre-mí) · [🇷🇺 RU](#-обо-мне)
-
 </div>
 
 ---
 
-<a name="about-me"></a>
-### 🇺🇸 About Me
+### 🧠 About Me · 关于我
+
+<details open><summary>🇺🇸 English</summary>
 
 - 🤖 Full-Stack Robotics Engineer
 - 🔭 Working on: `ROS2` · `BSP` · `Robot Arm` · `AI Agent` · `DL` · `LLM` · `3D Print` · `Mechanical Design`
 - 🌱 Diving into: RT-Linux, EtherCAT, Real-Time Systems
 - ⚡ Motto: *"First principles. Results driven."*
 
-<a name="关于我"></a>
+</details>
+
 <details><summary>🇨🇳 中文</summary>
 
 - 🤖 全栈机器人工程师
@@ -30,7 +28,6 @@
 
 </details>
 
-<a name="私について"></a>
 <details><summary>🇯🇵 日本語</summary>
 
 - 🤖 ロボティクスエンジニア
@@ -40,7 +37,6 @@
 
 </details>
 
-<a name="소개"></a>
 <details><summary>🇰🇷 한국어</summary>
 
 - 🤖 로보틱스 엔지니어
@@ -50,7 +46,6 @@
 
 </details>
 
-<a name="über-mich"></a>
 <details><summary>🇩🇪 Deutsch</summary>
 
 - 🤖 Robotik-Ingenieur
@@ -60,7 +55,6 @@
 
 </details>
 
-<a name="à-propos"></a>
 <details><summary>🇫🇷 Français</summary>
 
 - 🤖 Ingénieur Robotique
@@ -70,7 +64,6 @@
 
 </details>
 
-<a name="sobre-mí"></a>
 <details><summary>🇪🇸 Español</summary>
 
 - 🤖 Ingeniero en Robótica
@@ -80,7 +73,6 @@
 
 </details>
 
-<a name="обо-мне"></a>
 <details><summary>🇷🇺 Русский</summary>
 
 - 🤖 Инженер-робототехник
