@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Robotik-Ingenieur%3BROS2%20%7C%20DL%20%7C%20LLM%20%7C%203D-Druck%3BCoole%20Dinge%20bauen%20%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Robotik-Applikationsentwickler%3BROS2%20%7C%20DL%20%7C%20LLM%20%7C%203D-Druck%3BCoole%20Dinge%20bauen%20%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 🧠 Über mich
 
-- 🤖 Robotik-Ingenieur
+- 🤖 Robotik-Applikationsentwickler
 - 🔭 ROS2 · BSP · Roboterarm · AI · DL · LLM · 3D-Druck · Mechanik
 - 🌱 RT-Linux, EtherCAT, Echtzeitsysteme
 - ⚡ First Principles. Ergebnisorientiert.

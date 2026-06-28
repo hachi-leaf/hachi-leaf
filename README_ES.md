@@ -21,7 +21,7 @@
 
 ### 🧠 Sobre mí
 
-- 🤖 Ingeniero en Robótica
+- 🤖 Ingeniero de Desarrollo en Robótica
 - 🔭 ROS2 · BSP · Brazo Robot · AI · DL · LLM · Impresión 3D · Diseño Mecánico
 - 🌱 RT-Linux, EtherCAT, Sistemas de Tiempo Real
 - ⚡ Primeros principios. Orientado a resultados.

@@ -21,7 +21,7 @@
 
 ### 🧠 À propos
 
-- 🤖 Ingénieur Robotique
+- 🤖 Ingénieur Développement Robotique
 - 🔭 ROS2 · BSP · Bras Robot · AI · DL · LLM · Impression 3D · Conception Mécanique
 - 🌱 RT-Linux, EtherCAT, Systèmes Temps Réel
 - ⚡ Principes premiers. Orienté résultats.
