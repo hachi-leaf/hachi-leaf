@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%95%B0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
