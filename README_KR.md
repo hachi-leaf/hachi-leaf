@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;Full-Stack+Robotics+Engineer;ROS2+%7C+DL+%7C+LLM+%7C+3D+Print;Building+Cool+Things+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%3BROS2%20%7C%20DL%20%7C%20LLM%20%7C%203D%20%ED%94%84%EB%A6%B0%ED%8A%B8%3B%EB%A9%8B%EC%A7%84%20%EA%B2%83%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4%20%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=%EB%B0%A9%EB%AC%B8%EC%9E%90" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 소개
 
-- 🤖 Full-Stack Robotics Engineer
-- 🔭 Working on: `ROS2` · `BSP` · `Robot Arm` · `AI Agent` · `DL` · `LLM` · `3D Print` · `Mechanical Design`
-- 🌱 Diving into: RT-Linux, EtherCAT, Real-Time Systems
-- ⚡ Motto: *"First principles. Results driven."*
+- 🤖 로보틱스 엔지니어
+- 🔭 ROS2 · BSP · 로봇 암 · AI · DL · LLM · 3D 프린트 · 기계 설계
+- 🌱 RT-Linux, EtherCAT, 실시간 시스템
+- ⚡ 원칙 중심, 결과 지향
 
 ---
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-**Core**
+**코어**
 
 ![ROS2](https://img.shields.io/badge/ROS2-Humble%20%7C%20Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,14 +45,14 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-**Hardware**
+**하드웨어**
 
 ![ARM](https://img.shields.io/badge/ARM-AArch64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-3D%20%26%20CAD-E3352B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![PCB](https://img.shields.io/badge/PCB%20Design-立创EDA-5588FF?style=for-the-badge)
 ![3DPrint](https://img.shields.io/badge/3D%20Print-FFF-FF6B35?style=for-the-badge&logo=prusa&logoColor=white)
 
-**Tools**
+**도구**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,9 +63,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 주요 프로젝트
 
-| ⭐ | Project | Description |
+| ⭐ | 프로젝트 | 설명 |
 |----|---------|-------------|
 | 12 | **[Horizon_yolov5_tools](https://github.com/hachi-leaf/Horizon_yolov5_tools)** | RDK YOLOv5 Toolchain · Model Conversion / Quantization / Deployment |
 | 5 | **[HIK_Camera_TEF_Driver](https://github.com/hachi-leaf/HIK_Camera_TEF_Driver)** | Hikvision USB3.0 Industrial Camera Cython Driver |
@@ -77,7 +77,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub 통계
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 ```python
 class Leaf:
-    motto = "First principles. Results driven."
+    motto = "원칙 중심, 결과 지향"
     stack = ["ROS2", "C++", "Python", "PyTorch", "RT-Linux"]
 
     def daily(self):
@@ -106,7 +106,7 @@ while alive:
 
 <div align="center">
 
-### 📬 Let's Connect
+### 📬 연락처
 
 [![Email](https://img.shields.io/badge/Email-zxy__yys__leaf%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxy_yys_leaf@163.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hachi--leaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hachi-leaf)

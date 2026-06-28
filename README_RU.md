@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;Full-Stack+Robotics+Engineer;ROS2+%7C+DL+%7C+LLM+%7C+3D+Print;Building+Cool+Things+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%3BROS2%20%7C%20DL%20%7C%20LLM%20%7C%203D-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C%3B%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5%20%D1%88%D1%82%D1%83%D0%BA%D0%B8%20%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 Обо мне
 
-- 🤖 Full-Stack Robotics Engineer
-- 🔭 Working on: `ROS2` · `BSP` · `Robot Arm` · `AI Agent` · `DL` · `LLM` · `3D Print` · `Mechanical Design`
-- 🌱 Diving into: RT-Linux, EtherCAT, Real-Time Systems
-- ⚡ Motto: *"First principles. Results driven."*
+- 🤖 Инженер-робототехник
+- 🔭 ROS2 · BSP · Роборука · AI · DL · LLM · 3D-печать · Механика
+- 🌱 RT-Linux, EtherCAT, системы реального времени
+- ⚡ От первых принципов — к результату
 
 ---
 
@@ -32,27 +32,27 @@
 
 <div align="center">
 
-**Core**
+**Ядро**
 
 ![ROS2](https://img.shields.io/badge/ROS2-Humble%20%7C%20Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**AI & CV**
+**ИИ и CV**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-**Hardware**
+**Железо**
 
 ![ARM](https://img.shields.io/badge/ARM-AArch64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-3D%20%26%20CAD-E3352B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![PCB](https://img.shields.io/badge/PCB%20Design-立创EDA-5588FF?style=for-the-badge)
 ![3DPrint](https://img.shields.io/badge/3D%20Print-FFF-FF6B35?style=for-the-badge&logo=prusa&logoColor=white)
 
-**Tools**
+**Инструменты**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,9 +63,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Проекты
 
-| ⭐ | Project | Description |
+| ⭐ | Проект | Описание |
 |----|---------|-------------|
 | 12 | **[Horizon_yolov5_tools](https://github.com/hachi-leaf/Horizon_yolov5_tools)** | RDK YOLOv5 Toolchain · Model Conversion / Quantization / Deployment |
 | 5 | **[HIK_Camera_TEF_Driver](https://github.com/hachi-leaf/HIK_Camera_TEF_Driver)** | Hikvision USB3.0 Industrial Camera Cython Driver |
@@ -77,7 +77,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Статистика GitHub
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 ```python
 class Leaf:
-    motto = "First principles. Results driven."
+    motto = "От первых принципов — к результату"
     stack = ["ROS2", "C++", "Python", "PyTorch", "RT-Linux"]
 
     def daily(self):
@@ -106,7 +106,7 @@ while alive:
 
 <div align="center">
 
-### 📬 Let's Connect
+### 📬 Связь
 
 [![Email](https://img.shields.io/badge/Email-zxy__yys__leaf%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxy_yys_leaf@163.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hachi--leaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hachi-leaf)
