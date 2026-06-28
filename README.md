@@ -1,93 +1,94 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Leaf+%F0%9F%8D%83;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Leaf+%E3%81%A7%E3%81%99+%F0%9F%8D%83;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Leaf+%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%8D%83;Bonjour%2C+je+suis+Leaf+%F0%9F%8D%83;Hallo%2C+ich+bin+Leaf+%F0%9F%8D%83;%C2%A1Hola%2C+soy+Leaf!+%F0%9F%8D%83;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Leaf+%F0%9F%8D%83" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Leaf+%F0%9F%8D%83;Full-Stack+Robotics+Engineer;ROS2+%7C+DL+%7C+LLM+%7C+3D+Print;Building+Cool+Things+%F0%9F%94%A5" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=hachi-leaf&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+<br/>
+
+[🇺🇸 EN](#-about-me) · [🇨🇳 中文](#-关于我) · [🇯🇵 日本語](#-私について) · [🇰🇷 한국어](#-소개) · [🇩🇪 DE](#-über-mich) · [🇫🇷 FR](#-à-propos) · [🇪🇸 ES](#-sobre-mí) · [🇷🇺 RU](#-обо-мне)
 
 </div>
 
 ---
 
-### 🧠 About Me · 关于我 · 私について · 소개 · Über mich · À propos · Sobre mí · Обо мне
+<a name="about-me"></a>
+### 🇺🇸 About Me
 
-<table>
-<tr>
-<td width="25%">
-
-**🇺🇸 English**
 - 🤖 Full-Stack Robotics Engineer
-- 🔭 ROS2 · BSP · Robot Arm · AI Agent
-- 🎯 DL · LLM · 3D Print · Mechanical
-- ⚡ First principles. Results driven.
+- 🔭 Working on: `ROS2` · `BSP` · `Robot Arm` · `AI Agent` · `DL` · `LLM` · `3D Print` · `Mechanical Design`
+- 🌱 Diving into: RT-Linux, EtherCAT, Real-Time Systems
+- ⚡ Motto: *"First principles. Results driven."*
 
-</td>
-<td width="25%">
+<a name="关于我"></a>
+<details><summary>🇨🇳 中文</summary>
 
-**🇨🇳 中文**
 - 🤖 全栈机器人工程师
-- 🔭 ROS2 · BSP · 机械臂 · AI Agent
-- 🎯 深度学习 · 大模型 · 3D打印
-- ⚡ 第一性原理，结果导向
+- 🔭 ROS2 · BSP · 机械臂 · AI Agent · 深度学习 · 大模型 · 3D打印 · 机械结构
+- 🌱 RT-Linux, EtherCAT, 实时系统
+- ⚡ 第一性原理思考，结果导向执行
 
-</td>
-<td width="25%">
+</details>
 
-**🇯🇵 日本語**
+<a name="私について"></a>
+<details><summary>🇯🇵 日本語</summary>
+
 - 🤖 ロボティクスエンジニア
-- 🔭 ROS2 · BSP · ロボットアーム
-- 🎯 DL · LLM · 3Dプリント
+- 🔭 ROS2 · BSP · ロボットアーム · AI · DL · LLM · 3Dプリント · 機械設計
+- 🌱 RT-Linux, EtherCAT, リアルタイムシステム
 - ⚡ 原理から考え、結果にこだわる
 
-</td>
-<td width="25%">
+</details>
 
-**🇰🇷 한국어**
+<a name="소개"></a>
+<details><summary>🇰🇷 한국어</summary>
+
 - 🤖 로보틱스 엔지니어
-- 🔭 ROS2 · BSP · 로봇 암 · AI
-- 🎯 DL · LLM · 3D 프린트
+- 🔭 ROS2 · BSP · 로봇 암 · AI · DL · LLM · 3D 프린트 · 기계 설계
+- 🌱 RT-Linux, EtherCAT, 실시간 시스템
 - ⚡ 원칙 중심, 결과 지향
 
-</td>
-</tr>
-<tr>
-<td width="25%">
+</details>
 
-**🇩🇪 Deutsch**
+<a name="über-mich"></a>
+<details><summary>🇩🇪 Deutsch</summary>
+
 - 🤖 Robotik-Ingenieur
-- 🔭 ROS2 · BSP · Roboterarm
-- 🎯 DL · LLM · 3D-Druck
+- 🔭 ROS2 · BSP · Roboterarm · AI · DL · LLM · 3D-Druck · Mechanik
+- 🌱 RT-Linux, EtherCAT, Echtzeitsysteme
 - ⚡ First Principles. Ergebnisorientiert.
 
-</td>
-<td width="25%">
+</details>
 
-**🇫🇷 Français**
+<a name="à-propos"></a>
+<details><summary>🇫🇷 Français</summary>
+
 - 🤖 Ingénieur Robotique
-- 🔭 ROS2 · BSP · Bras Robot
-- 🎯 DL · LLM · Impression 3D
-- ⚡ Principes premiers. Résultats.
+- 🔭 ROS2 · BSP · Bras Robot · AI · DL · LLM · Impression 3D · Conception Mécanique
+- 🌱 RT-Linux, EtherCAT, Systèmes Temps Réel
+- ⚡ Principes premiers. Orienté résultats.
 
-</td>
-<td width="25%">
+</details>
 
-**🇪🇸 Español**
+<a name="sobre-mí"></a>
+<details><summary>🇪🇸 Español</summary>
+
 - 🤖 Ingeniero en Robótica
-- 🔭 ROS2 · BSP · Brazo Robot
-- 🎯 DL · LLM · Impresión 3D
-- ⚡ Principios. Resultados.
+- 🔭 ROS2 · BSP · Brazo Robot · AI · DL · LLM · Impresión 3D · Diseño Mecánico
+- 🌱 RT-Linux, EtherCAT, Sistemas de Tiempo Real
+- ⚡ Primeros principios. Orientado a resultados.
 
-</td>
-<td width="25%">
+</details>
 
-**🇷🇺 Русский**
+<a name="обо-мне"></a>
+<details><summary>🇷🇺 Русский</summary>
+
 - 🤖 Инженер-робототехник
-- 🔭 ROS2 · BSP · Роборука
-- 🎯 DL · LLM · 3D-печать
-- ⚡ От принципов к результату
+- 🔭 ROS2 · BSP · Роборука · AI · DL · LLM · 3D-печать · Механика
+- 🌱 RT-Linux, EtherCAT, системы реального времени
+- ⚡ От первых принципов — к результату
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -155,7 +156,7 @@
 
 ```python
 class Leaf:
-    motto = "第一性原理思考，结果导向执行"
+    motto = "First principles. Results driven."
     stack = ["ROS2", "C++", "Python", "PyTorch", "RT-Linux"]
 
     def daily(self):
