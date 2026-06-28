@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Leaf+%F0%9F%8D%83;%E5%85%A8%E6%A0%88%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88;ROS2+%7C+DL+%7C+LLM+%7C+3D%E6%89%93%E5%8D%B0;%E5%88%9B%E9%80%A0%E9%85%B7%E7%8E%A9%E6%84%8F+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Leaf+%F0%9F%8D%83;%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;ROS2+%7C+DL+%7C+LLM+%7C+3D%E6%89%93%E5%8D%B0;%E5%88%9B%E9%80%A0%E9%85%B7%E7%8E%A9%E6%84%8F+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">

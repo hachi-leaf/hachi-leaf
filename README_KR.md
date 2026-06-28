@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%3BROS2%20%7C%20DL%20%7C%20LLM%20%7C%203D%20%ED%94%84%EB%A6%B0%ED%8A%B8%3B%EB%A9%8B%EC%A7%84%20%EA%B2%83%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4%20%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%EB%A1%9C%EB%B4%87%20%EC%9D%91%EC%9A%A9%20%EA%B0%9C%EB%B0%9C%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%3BROS2%20%7C%20DL%20%7C%20LLM%20%7C%203D%20%ED%94%84%EB%A6%B0%ED%8A%B8%3B%EB%A9%8B%EC%A7%84%20%EA%B2%83%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4%20%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">

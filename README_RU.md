@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%3BROS2%20%7C%20DL%20%7C%20LLM%20%7C%203D-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C%3B%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5%20%D1%88%D1%82%D1%83%D0%BA%D0%B8%20%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8%3BROS2%20%7C%20DL%20%7C%20LLM%20%7C%203D-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C%3B%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5%20%D1%88%D1%82%D1%83%D0%BA%D0%B8%20%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
