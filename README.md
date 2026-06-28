@@ -62,7 +62,6 @@
 | 2 | **[RDK_IMU_Module_us](https://github.com/hachi-leaf/RDK_IMU_Module_us)** | 用户空间 IMU 驱动 · 纯 Linux I2C/SPI · 零依赖 |
 | 1 | **[RDK_Toolchain_template](https://github.com/hachi-leaf/RDK_Toolchain_template)** | 算法工具链 onnx2bin 转换工作空间模板 |
 | - | **[Cloud-Soul](https://github.com/hachi-leaf/Cloud-Soul)** | ROS2 驱动的云端 AI Agent 运行时 · 多终端循环思考 |
-| - | **[Adam-Soul](https://github.com/hachi-leaf/Adam-Soul)** | AI Agent 云端记忆仓库 · Git 托管灵魂 |
 | - | **[RDK-S100-MCU](https://github.com/hachi-leaf/RDK-S100-MCU-Build-and-Flash)** | RDK S100 MCU 一键编译 / 烧录 / Reset |
 
 ---
